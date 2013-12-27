@@ -1,0 +1,9 @@
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\bin\Release\定时关机小程序.exe
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\bin\Release\定时关机小程序.pdb
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\定时关机小程序.Form1.resources
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\定时关机小程序.Properties.Resources.resources
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\定时关机小程序.exe
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\定时关机小程序.pdb
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Release\GenerateResource-ResGen.write.1.tlog

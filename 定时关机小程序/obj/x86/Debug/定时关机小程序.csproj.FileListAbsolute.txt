@@ -1,0 +1,8 @@
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\bin\Debug\定时关机小程序.exe
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\bin\Debug\定时关机小程序.pdb
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\定时关机小程序.Form1.resources
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\定时关机小程序.Properties.Resources.resources
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\定时关机小程序.exe
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\定时关机小程序.pdb
+E:\Projects\就业班练习\定时关机小程序\定时关机小程序\obj\x86\Debug\定时关机小程序.csproj.GenerateResource.Cache
